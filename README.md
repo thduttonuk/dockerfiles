@@ -1,7 +1,6 @@
-
 # Dockerfiles
 My docker file examples
 
-# Mongo
+# MongoDb
 
-[Mongo 3.6](/Mongo/3.6)
+[MongoDb 3.6](/Mongo/3.6)
